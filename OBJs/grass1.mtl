@@ -1,0 +1,12 @@
+# Blender 4.3.2 MTL File: 'GrassPack.blend'
+# www.blender.org
+
+newmtl grass
+Ns 300.877686
+Ka 0.198312 0.198312 0.198312
+Kd 0.112652 1.000000 0.068006
+Ks 0.592827 0.592827 0.592827
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
